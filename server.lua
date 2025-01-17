@@ -1,0 +1,1 @@
+-- This script can be left empty for now or used to handle server-side logic if needed
